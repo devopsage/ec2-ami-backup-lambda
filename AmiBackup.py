@@ -1,6 +1,6 @@
 #==================================================================
 ## Script to take the AMI backup of an ec2 instance based on tag
-## owner: DevOpsAGE technologies
+## owner: DevOpsAGE Technologies
 ## Contact: devopsage@gmail.com
 #==================================================================
 
