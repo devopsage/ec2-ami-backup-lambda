@@ -38,7 +38,7 @@
                 }
             }
         },
-		{
+	{
             "Effect": "Allow",
             "Action": "logs:*",
             "Resource": "*"
