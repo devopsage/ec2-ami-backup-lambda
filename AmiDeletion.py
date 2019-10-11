@@ -3,6 +3,8 @@
 # Owner: DevOpsAGE Technologies
 # Contact: devopsage@gmail.com
 # note: make sure to change the region name below in the script
+# Disclaimer: This Script does not comes with any guaranty, please go through it carefully before executing it. DevOpsAGE Will 
+# not be responsible for any loss of data or any Issues happened
 #==============================================================================
 
 import boto3
