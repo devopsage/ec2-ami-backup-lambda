@@ -3,6 +3,8 @@
 ## owner: DevOpsAGE Technologies
 ## Contact: devopsage@gmail.com
 # AMI taken with Noreboot=True
+# Disclaimer: This Script does not comes with any guaranty, please go through it carefully before executing it. DevOpsAGE Will 
+# not be responsible for any loss of data or any Issues happened
 #==================================================================
 
 import boto3
